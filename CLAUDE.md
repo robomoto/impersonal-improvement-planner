@@ -1,4 +1,4 @@
-# Personal Improvement Planner
+# Impersonal Improvement Planner
 
 A self-improvement kit for Claude Code agent teams. Measures execution quality across tracked runs and guides iterative improvement.
 
@@ -11,7 +11,7 @@ When the user says any of these, read the corresponding file and follow its inst
 | "tracked run" / "track this" | `skills/tracked-run/SKILL.md` | Instrument the current run with metrics collection |
 | "post-run review" | `docs/post-run-review.md` | Review a completed tracked run against JSONL ground truth |
 | "roster check" | `agents/roster-checker.md` | Audit the agent roster against the current project |
-| "set up feedback loop" / "install improvement planner" | `docs/setup-guide.md` | Walk the user through installation into their project |
+| "set up feedback loop" / "install impersonal improvement planner" | `docs/setup-guide.md` | Walk the user through installation into their project |
 
 ## Configuration
 

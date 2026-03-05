@@ -14,7 +14,7 @@ If the project doesn't have an agent team yet, this kit won't help -- it measure
 
 ## Step 1: Copy Files
 
-From the `personal-improvement-planner/` repo, copy these into your project:
+From the `impersonal-improvement-planner/` repo, copy these into your project:
 
 ```
 # Skill (lead uses this during tracked runs)

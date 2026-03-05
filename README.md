@@ -1,4 +1,4 @@
-# Personal Improvement Planner
+# Impersonal Improvement Planner
 
 A self-improvement kit for Claude Code agent teams. Measures execution quality across tracked runs and guides iterative improvement through a four-phase cycle.
 
@@ -77,7 +77,7 @@ See `docs/setup-guide.md` for the full walkthrough.
 ## Repo Structure
 
 ```
-personal-improvement-planner/
+impersonal-improvement-planner/
 ├── README.md                          # This file
 ├── CLAUDE.md                          # AI-readable: teaches Claude the trigger phrases
 ├── LICENSE                            # MIT
